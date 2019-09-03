@@ -7,4 +7,6 @@ Since the algorithm used in this implementation doesn't guarantee that the maze 
 
 Lastly, the `lights` of the maze will turn off as soon as the maze is ready to be solved. The user will have a limited view of the maze and their surroundings. The field of view can be turned higher by using the slider to the right. The light can be turned on by using the `LIGHTS!` button towards the bottom.
 
+To run the game, simply execute the .jar file `Runnable Puzzle.jar`.
+
 Questions/Suggestions are welcome! Submit a pull-request if you add features that may improve the game.
